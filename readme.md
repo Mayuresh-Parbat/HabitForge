@@ -181,10 +181,4 @@ The platform focuses on combining modern web technologies with AI-driven product
 
 # Author
 
-Mayuresh
-
----
-
-# License
-
-This project is licensed under the MIT License.
+Mayuresh Parbat
