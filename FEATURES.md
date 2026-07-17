@@ -5,5 +5,4 @@
 - Goal Management
 - Progress Analytics
 - AI Habit Coach
-- Smart Reminders
 - Productivity Dashboard
