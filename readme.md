@@ -181,4 +181,4 @@ The platform focuses on combining modern web technologies with AI-driven product
 
 # Author
 
-Mayuresh Parbat
+Mayuresh Parbat | software developer 
