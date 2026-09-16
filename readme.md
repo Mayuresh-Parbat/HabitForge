@@ -137,20 +137,6 @@ npm install
 ```bash
 npm run dev
 ```
-
----
-
-# Environment Variables
-
-Create a `.env` file inside backend folder.
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-OPENAI_API_KEY=your_openai_api_key
-```
-
 ---
 
 # Future Enhancements
@@ -181,4 +167,4 @@ The platform focuses on combining modern web technologies with AI-driven product
 
 # Author
 
-Mayuresh Parbat | software developer 
+Mayuresh Parbat
