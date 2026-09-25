@@ -104,11 +104,6 @@ git clone https://github.com/yourusername/habitforge.git
 cd frontend
 ```
 
-## Install dependencies
-
-```bash
-npm install
-```
 
 ## Start development server
 
@@ -126,11 +121,7 @@ npm run dev
 cd backend
 ```
 
-## Install dependencies
 
-```bash
-npm install
-```
 
 ## Start backend server
 
@@ -167,4 +158,4 @@ The platform focuses on combining modern web technologies with AI-driven product
 
 # Author
 
-Mayuresh Parbat
+**Mayuresh Parbat**
