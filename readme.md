@@ -23,7 +23,6 @@ HabitForge is a smart habit tracking and self-improvement platform designed to h
 ## Analytics Dashboard
 - Habit completion analytics
 - Weekly and monthly performance tracking
-- Consistency score visualization
 - Personal growth statistics
 
 ## Productivity Features
@@ -31,7 +30,7 @@ HabitForge is a smart habit tracking and self-improvement platform designed to h
 - Focus session tracking
 - Goal management
 - Progress monitoring
-
+  
 ## Authentication & Security
 - Secure user authentication
 - JWT-based authorization
